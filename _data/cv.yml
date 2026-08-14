@@ -1,189 +1,116 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
+  name: Madsen W. J. Servius
+  label: Master Candidate in EECS
+  email: madsen@madsenservius.com
+  summary: Master Candidate in Electrical Engineering and Computer Science (EECS) with a strong interest in Deep Learning and its applications, Embedded Systems and Hardware-Software Co-Design. I am open-minded, passionate about learning theory and look forward to both practical and challenging problems.
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 
+    city: Taipei City
+    region: Taiwan
+    countryCode: TW
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: National Chung Hsing University
+        location: Taichung, Taiwan
+        area: 
+        studyType: Chinese as a Foreign Language
+        start_date: 2025
+        end_date: 2026
         score: ""
-        courses: "Theory of Relativity"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Developed Mandarin Chinese proficiency across speaking, listening, reading, and writing through intensive coursework.
+          - Cultural Exchange
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: École Supérieure d'Infotronique d'Haiti
+        location: Port-au-Prince, Haiti
+        area: 
+        studyType: Bachelor Degree in Computer Science
+        start_date: 2019
+        end_date: 2023
         highlights:
-          - Description 1.
-          - Description 2.
+          - Comprehensive foundations in core computer science through rigorous coursework (Algorithms & Data Structures, Computer Architecture, Networking, Object-Oriented Programming in C++, Operating Systems, etc.).
+          - Lead electronics and programming workshop at the school's makerlab
+          - Built a trash can robot that move to user on hand gesture.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Central Bank of Haiti
+        position: Software Quality Assurance Engineer Intern
+        location: Port-au-Prince, Haiti
+        start_date: 2025
+        end_date: 2025
         highlights:
-          - Relativity
-          - Description 2.
+          - Conducted functional, regression and end-to-end testing.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Akademi
+        position: Lead Instructor
+        location: Port-au-Prince, Haiti
+        start_date: 2025
+        end_date: 2025
         highlights:
-          - Description 1.
-          - Description 2.
+          - Lead Instructor for the software engineering bootcamp.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Dokla
+        position: Founder
+        location: Port-au-Prince, Haiti
+        start_date: 2018
+        end_date: 2025
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - SaaS platform that streamlines hospital and clinic operations in Haiti.
+          - Conceptualized and bootstrapped from ideation to launch
+          - Self-funded the venture while managing all aspects of product vision, product development, market research and initial user acquisition.
+          - Full Stack Development with React and Django Rest API
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Loto Lakay
+        position: Software Engineer
+        location: Petion-Ville, Haiti
+        start_date: 2022
+        end_date: 2025
+        highlights:
+          - Built and maintained a mobile app with Angular/Ionic, improving user experience  and workflow efficiency.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: CleanConnect.ai
+        position: Software Engineer
+        location: Remotely 
+        start_date: 2021
+        end_date: 2022
+        highlights:
+          - Edge device to cloud data pipeline for telemetry data collection for Google BigQuery using MQTT and Google Cloud IoT Core.
+          - Built and maintaned frontend application with React and TypeScript.
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - company: Ayiti Analytics
+        position: Teacher Assistant
+        location: Port-au-Prince, Haiti
+        start_date: 2020
+        end_date: 2021
+        highlights:
+          - Developed educational content on Object-Oriented and Asynchronous Python.
+    
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming Languages
+        keywords: "C/C++, Python, JavaScript"
+      - name: Software Development
+        keywords: "React, Django, PostgreSQL, Git, Docker, RESTful APIs"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Chinese
+        summary: "Intermediate comprehension and communication skills"
 
       - name: English
-        summary: "Fluent"
+        summary: "Advanced"
+      
+      - name: French
+        summary: "Native Speaker"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
+   
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Deep Learning Specialization
+        date: in progress
+        issuer: DeepLearning.AI
+        icon: fa-solid fa-location-dot
+      - name: Data Analysis
+        date: 2023-09-29
+        issuer: Le Wagon
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
