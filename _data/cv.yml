@@ -4,7 +4,7 @@ cv:
   email: madsen@madsenservius.com
   summary: Master Candidate in Electrical Engineering and Computer Science (EECS) with a strong interest in Deep Learning and its applications, Embedded Systems and Hardware-Software Co-Design. I am open-minded, passionate about learning theory and look forward to both practical and challenging problems.
   address:
-    street: 
+    street:
     city: Taipei City
     region: Taiwan
     countryCode: TW
@@ -13,7 +13,7 @@ cv:
     Education:
       - institution: National Chung Hsing University
         location: Taichung, Taiwan
-        area: 
+        area:
         studyType: Chinese as a Foreign Language
         start_date: 2025
         end_date: 2026
@@ -24,7 +24,7 @@ cv:
 
       - institution: École Supérieure d'Infotronique d'Haiti
         location: Port-au-Prince, Haiti
-        area: 
+        area:
         studyType: Bachelor Degree in Computer Science
         start_date: 2019
         end_date: 2023
@@ -71,7 +71,7 @@ cv:
 
       - company: CleanConnect.ai
         position: Software Engineer
-        location: Remotely 
+        location: Remotely
         start_date: 2021
         end_date: 2022
         highlights:
@@ -85,7 +85,6 @@ cv:
         end_date: 2021
         highlights:
           - Developed educational content on Object-Oriented and Asynchronous Python.
-    
 
     Skills:
       - name: Programming Languages
@@ -99,11 +98,10 @@ cv:
 
       - name: English
         summary: "Advanced"
-      
+
       - name: French
         summary: "Native Speaker"
 
-   
     Certificates:
       - name: Deep Learning Specialization
         date: in progress
@@ -113,4 +111,3 @@ cv:
         date: 2023-09-29
         issuer: Le Wagon
         icon: fa-solid fa-location-dot
-

@@ -30,4 +30,3 @@ I am currently pursuing Chinese Proficiency (targeting TOCFL Level 4) and Gradua
 Previously I was working at [Haiti's Central Bank](https://www.brh.ht) as a Software Quality Assurance Engineer Intern. Before that I occupied several successive roles in Software Engineering.
 
 My Research Interest lies in Deep Learning. More specifically on its application in Computer Vision. I am also eager to explore Deep Learning intersection with Computer Engineering... AI Hardware Accelerators and Hardware-Software Co-Design.
-
