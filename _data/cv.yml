@@ -12,8 +12,6 @@ cv:
   sections:
     Education:
       - institution: National Chung Hsing University
-        location: Taichung, Taiwan
-        area:
         studyType: Chinese as a Foreign Language
         start_date: 2025
         end_date: 2026
@@ -23,8 +21,6 @@ cv:
           - Cultural Exchange
 
       - institution: École Supérieure d'Infotronique d'Haiti
-        location: Port-au-Prince, Haiti
-        area:
         studyType: Bachelor Degree in Computer Science
         start_date: 2019
         end_date: 2023
@@ -36,55 +32,48 @@ cv:
     Experience:
       - company: Central Bank of Haiti
         position: Software Quality Assurance Engineer Intern
-        location: Port-au-Prince, Haiti
         start_date: 2025
         end_date: 2025
         highlights:
-          - Conducted functional, regression and end-to-end testing.
+          - I conducted functional, regression and end-to-end testing to ensure safety stability and compliance.
 
       - company: Akademi
         position: Lead Instructor
-        location: Port-au-Prince, Haiti
         start_date: 2025
         end_date: 2025
         highlights:
-          - Lead Instructor for the software engineering bootcamp.
+          - I taught a group of more than 25 students HMTL/CSS, JavaScript, React, Python and System Design.
 
       - company: Dokla
-        position: Founder
-        location: Port-au-Prince, Haiti
+        position: Startup Founder
         start_date: 2018
         end_date: 2025
         highlights:
-          - SaaS platform that streamlines hospital and clinic operations in Haiti.
-          - Conceptualized and bootstrapped from ideation to launch
-          - Self-funded the venture while managing all aspects of product vision, product development, market research and initial user acquisition.
-          - Full Stack Development with React and Django Rest API
+          - I bootstraped from ideation to launch a SaaS platform for doctor's appointments in Haiti.
+          - I managed all the aspects of product vision, product development, market research and initial user acquisition.
+          - I conducted Full Stack Development with React and Django Rest API.
 
       - company: Loto Lakay
         position: Software Engineer
-        location: Petion-Ville, Haiti
         start_date: 2022
         end_date: 2025
         highlights:
-          - Built and maintained a mobile app with Angular/Ionic, improving user experience  and workflow efficiency.
+          - I built and maintained a mobile app with Angular/Ionic, improving user experience  and workflow efficiency.
 
       - company: CleanConnect.ai
         position: Software Engineer
-        location: Remotely
         start_date: 2021
         end_date: 2022
         highlights:
-          - Edge device to cloud data pipeline for telemetry data collection for Google BigQuery using MQTT and Google Cloud IoT Core.
-          - Built and maintaned frontend application with React and TypeScript.
+          - I built data pipelines. Telemetry from Edge to Cloud using MQTT IoT Protocol.
+          - I built and maintaned frontend application with React and TypeScript.
 
       - company: Ayiti Analytics
         position: Teacher Assistant
-        location: Port-au-Prince, Haiti
         start_date: 2020
         end_date: 2021
         highlights:
-          - Developed educational content on Object-Oriented and Asynchronous Python.
+          - I developed educational content on Object-Oriented and Asynchronous Python.
 
     Skills:
       - name: Programming Languages
